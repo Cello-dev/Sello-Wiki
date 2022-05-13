@@ -1,7 +1,7 @@
 # Sello-Wiki
 ### Welcome to the Sello Wiki
 ### This will serve as the place that will hold the procedures as well as the information that is needed for Sello. It will be broken down into the major components
-- #### How to's [`How To's`](#How To's)
+- #### [How to's](#How To's)
 - #### Foreign Reference Materials
 - #### In-house Reference Materials
 - #### Issues
