@@ -22,4 +22,4 @@
 ### Roadmap
 #### The roadmap is the general expectation for the direction of which the project is expected to be going in. This sort of thing is seperated out into the different quarters at the end of each 3 months is the end of the quarter. If things are perdicted to be done and are not done within the current quarter, they will be moved to the next quarter, most likely being put into a higher level of priority to make sure that they get done in the next quarter. These sort of expectations will be made known directly during the meetings as well as on a personal basis depending on the circumstances
 
-Any Questions or request of info contact Jodiceluke@gmail.com
+######### Any Questions or request of info contact Jodiceluke@gmail.com
