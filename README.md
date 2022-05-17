@@ -2,18 +2,18 @@
 ### Welcome to the Sello Wiki
 ### This will serve as the place that will hold the procedures as well as the information that is needed for Sello. It will be broken down into the major components
 - #### How To's
-- #### Foreign Reference Materials
-- #### In-house Reference Materials
+- #### Reference Materials
+- #### Documentation
 - #### Issues
 - #### Roadmap
 
 ### How To's
 #### This pertains to how it is that things should be done, This is espcially useful for the people that have not worked with the technologies that we are using very much as well as a good place that will hold the reminders. Each document will contain a step by step outline to get you through the thing that you are currently working on. 
 
-### Foreign Reference Materials
+### Reference Materials
 #### This pertains to a list of links that can be used to get to reference points for anything that will be needed in the Use of JavaScript or anything that would be found on the React Native site and would be used as a quick reference to the exact point that you would need
 
-### In-house Reference Materials
+### Documentation
 #### This pertains all of the in house documentation that pertains to all forms of the app. Ideally, this would contain the major functions and or class descriptions in one location allowing for lookups and having written documentation for the project as a whole which can be referenced to. **This will not be done right away as we are still working on producing this code and this portion will continue to be added to and edited as the code itself changes**
 
 ### Issues
