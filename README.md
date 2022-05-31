@@ -18,6 +18,9 @@
 
 ### Issues
 #### The issues that are going on with the **Entire** project are presented here. This will be bugs that are affecting the project as a whole all issues that are only pertaining to one portion should be found in the repository that the problems reside. the criteria for putting the issue in the Wiki is that it has to be effecting **At least 2 of the repos** to post in the issues here
+the stories are found here : https://docs.google.com/spreadsheets/d/1ecnuiVCXN6DClOeQA_Uj4Sv8ChLR-fH4mKpcu-1XPCI/edit#gid=0 
+Will be migrated to the issues tab in This repo(the Wiki)
+
 
 ### Roadmap
 #### The roadmap is the general expectation for the direction of which the project is expected to be going in. This sort of thing is seperated out into the different quarters at the end of each 3 months is the end of the quarter. If things are perdicted to be done and are not done within the current quarter, they will be moved to the next quarter, most likely being put into a higher level of priority to make sure that they get done in the next quarter. These sort of expectations will be made known directly during the meetings as well as on a personal basis depending on the circumstances
